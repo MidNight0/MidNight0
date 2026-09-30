@@ -47,8 +47,3 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 
 </div>
-
-<br/>
-
-----
-<div align="center">Generated using GitHub Profilinator</div>
