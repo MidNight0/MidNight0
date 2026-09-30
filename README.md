@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/MidNight0/MidNight0/main/animepic.jpg" style="width: 200px; height: 200px; border-radius: 15px; object-fit: cover;" />
 
-<b>Hi, I'm MidNight 👋</b>
+<span style="font-size: 24px;"><b>Hi, I'm MidNight 👋</b></span>
 
 I'm a network enthusiast 👨‍💻 focused on networking 🚀
 
@@ -17,18 +17,18 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 
 <div style="background-color: #1e1e2e; padding: 15px; border-radius: 10px; text-align: center;">
 
-<h2>🛠️ My Skill Set</h2>
+<span style="font-size: 26px;"><b>🛠️ My Skill Set</b></span>
 
-<h3>🎨 Frontend</h3>
+<span style="font-size: 20px;"><b>🎨 Frontend</b></span>
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="40" />
 
-<h3>⚙️ Backend & Scripting</h3>
+<span style="font-size: 20px;"><b>⚙️ Backend & Scripting</b></span>
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40" />
 
-<h3>🐧 Linux & Systems</h3>
+<span style="font-size: 20px;"><b>🐧 Linux & Systems</b></span>
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 
 </div>
