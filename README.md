@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MidNight0/MidNight0/main/animepic.jpg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/MidNight0/MidNight0/main/animepic.jpg" align="center" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
 </div>  
   
 
