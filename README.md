@@ -18,13 +18,16 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 ## 🛠️ My Skill Set
 
 **🎨 Frontend**  
-HTML5 · CSS3 · WordPress
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="40" />
 
 **⚙️ Backend & Scripting**  
-Python · Bash
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40" />
 
 **🐧 Linux & Systems**  
-LPIC-1 · Red Hat · AlmaLinux · Debian
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 
 <br/>
 
