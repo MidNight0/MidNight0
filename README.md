@@ -15,6 +15,8 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 
 <br/>
 
+<div style="background-color: #1e1e2e; padding: 15px; border-radius: 10px;">
+
 ## 🛠️ My Skill Set
 
 **🎨 Frontend**  
@@ -29,9 +31,7 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 **🐧 Linux & Systems**  
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 
-<br/>
-
-## 📊 GitHub Stats
+</div>
 
 <br/>
 
