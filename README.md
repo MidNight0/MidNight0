@@ -15,39 +15,22 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 
 <br/>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🛠️ My Skill Set
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-</div>
+**🎨 Frontend**  
+HTML5 · CSS3 · WordPress
 
-</td><td valign="top" width="33%">
+**⚙️ Backend & Scripting**  
+Python · Bash
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Linux & System  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td></tr></table>  
+**🐧 Linux & Systems**  
+LPIC-1 · Red Hat · AlmaLinux · Debian
 
 <br/>
 
-## Github Stats  
+## 📊 GitHub Stats
 
 <br/>
 
 ----
-<div align="center">Generated using Github Profilinator</div>
+<div align="center">Generated using GitHub Profilinator</div>
