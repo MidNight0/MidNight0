@@ -19,16 +19,31 @@ I'm a network enthusiast 👨‍💻 focused on networking 🚀
 
 <span style="font-size: 26px;"><b>🛠️ My Skill Set</b></span>
 
+<br/><br/>
+
 <span style="font-size: 20px;"><b>🎨 Frontend</b></span>
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />  
+
+<br/>
+
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="40" />
 
+<br/><br/>
+
 <span style="font-size: 20px;"><b>⚙️ Backend & Scripting</b></span>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />  
+
+<br/>
+
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40" />
 
+<br/><br/>
+
 <span style="font-size: 20px;"><b>🐧 Linux & Systems</b></span>
+
+<br/>
+
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 
 </div>
